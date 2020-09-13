@@ -35,7 +35,7 @@ func main() {
 	flag.Parse()
 	if showVersion {
 		fmt.Fprintln(os.Stderr, "wc Version 1.0")
-		fmt.Fprintln(os.Stderr, "Copyright 2020 Edgar, visit xxx for more detail")
+		fmt.Fprintln(os.Stderr, "Copyright 2020 Edgar, visit https://git.io/JU8sQ for more detail")
 		os.Exit(0)
 	}
 
