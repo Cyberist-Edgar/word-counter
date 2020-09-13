@@ -1,5 +1,5 @@
 ## word counter
-Usage: wc [OPTION]... [FILE]...
+Usage: `wc [OPTION]... [FILE]...`
 ```
 go run main.go test README.md
 3 6 27 test
