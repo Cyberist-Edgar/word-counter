@@ -2,6 +2,7 @@
 Usage: `wc [OPTION]... [FILE]...`
 ```
 go run main.go test README.md
+// output 
 3 6 27 test
 15 87 495 README.md
 ```
@@ -18,6 +19,6 @@ the following order: newline, word, byte
 
 `-w` print the word counts
 
-`--help` display this help and exit
+`--help` display help and exit
 
 `-v` output version information and exit
